@@ -1,3 +1,5 @@
+// 2. Escribe un programa con herencia de clases que permita modelar los objetos Teléfono, Fijo y Móvil, de maneraque Teléfono sea la clase madre y Fijo y Móvil, clases heredadas.
+
 class Telefono {
     constructor(marca, modelo, CPU, RAM, almacenamiento, ancho, alto) {
         this.marca = marca;

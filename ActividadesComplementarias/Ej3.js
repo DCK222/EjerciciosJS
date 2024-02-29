@@ -1,3 +1,6 @@
+// Ej.3.- CONSTRUCTORES. Crea una clase para modelar un objeto teléfono móvil que tenga al menos las siguientespropiedades: CPU, RAM, Almacenamiento, Ancho, Alto y número de 
+// cámaras. Añade también in método llamadotoString() que muestre en la pantalla la información del objeto creado. Crea cuatro objetos con distintos números deparámetros en la 
+// creación y muestra en pantalla la información de cada objeto.
 class telefono {
     // CREAMOS EL CONSTRUCTOR DEL MOVIL
     constructor(marca, modelo, CPU, RAM, almacenamiento, ancho, alto, numCamaras){

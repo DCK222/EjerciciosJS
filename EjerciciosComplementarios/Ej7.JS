@@ -1,3 +1,7 @@
+// 7.  Crea una clase película que permita gestionar esta información: nombre de la película, año de estreno, duración,género, los seis actores o actrices más principales, 
+// la URL de su cartel promocional y su director. Una acción que permitamostrar en consola toda la información. EL constructor recibirá los datos en una cadena JSON de la 
+// que deberá sacar losvalores de cada propiedad. Crea un objeto de la clase y ponla a prueba.
+
 class pelicula {
     constructor(nombrePelicula, añoEstreno, duracion, genero, actor1, actor2, actor3, actor4, actor5, actor6, url, director) {
         this.nombrePelicula = nombrePelicula;

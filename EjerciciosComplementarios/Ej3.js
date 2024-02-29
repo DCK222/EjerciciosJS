@@ -1,3 +1,6 @@
+// 3. Diseña una jerarquía de clases donde Música y Tecnología sean clases derivadas de Aula, para modelar lasinstalaciones de un instituto de enseñanza secundaria. Elige un 
+// método con el que evidenciar el concepto depolimorfismo. Razona en los comentarios del código tu respuesta.
+
 class Aula {
     constructor(colegio, numAulas, numMesas, numSillas) {
         this.colegio = colegio;

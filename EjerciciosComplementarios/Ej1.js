@@ -1,3 +1,6 @@
+// 1. Crea una clase con dos propiedades y dos métodos donde se evidencien los conceptos de abstracción yencapsulamiento de la POO. Razona en los comentarios del código 
+// tu respuesta.
+
 class Futbolista {
     // CONSTRUCTOR ABSTRACTO PARA LA CREACION DE UN JUGADOR
     constructor(nombre, apellidos, dorsal, nacionalidad) {

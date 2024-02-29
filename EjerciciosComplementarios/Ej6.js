@@ -1,3 +1,9 @@
+// 6.  Escribe un programa que haga uso de la clase clubFutbol para modelar un club que contenga las propiedadesañoFundacion, numSocios, nombreEstadio, ciudad y palmares 
+// (cada título debe almacenar su nombre y año ganado).Selecciona los tipos de datos que consideres más útiles en cada caso. Debe tener un único método verClub(), quemuestre 
+// toda la información contenida en sus propiedades. Crea seis objetos de manera que el primero ejecute elconstructor sin parámetros, el 2º con un parámetro, el 3º con dos 
+// parámetros... así hasta el 6º con cinco parámetros.Realiza un recorrido de cada objeto asegurándote de que en cada recorrido modificas el contenido de alguna propiedad.
+// ¿Son coherentes los datos que se muestran en cada objeto? Razona en los comentarios del código tu respuesta
+
 class clubFutbol {
     constructor(añoFundacion = 'nodefinido', numSocios = 0, nombreEstadio = 'nodefinido', ciudad = 'nodefinida', palmares = ''){
         this.añoFundacion = añoFundacion;

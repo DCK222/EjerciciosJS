@@ -1,0 +1,1 @@
+// Ej.5.- TRABAJANDO CON JSON. Busca en internet algún fichero JSON que forme parte de una API de algún servicio,cópialo en un string, luego conviértelo a un objeto de tipo JSON y realiza un recorrido para mostrar en la consola sucontenido.

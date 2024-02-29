@@ -1,3 +1,6 @@
+// Ej.2.- HERENCIA Y POLIMORFISMO. Crea una jerarquía de clases y úsalas en un programa para identificar losconceptos de herencia y polimorfismo. Comenta el código dónde empleas ambas características.
+// Ej.4.- RECORRIDOS CON HERENCIA. Utilizando los recorridos de un objeto, muestra todas las propiedades de lostres objetos creados en el ejercicio de HERENCIA Y POLIMORFISMO.
+
 class vehiculo {
     // CREAMOS EL CONSTRUCTOR DE LOS VEHICULOS
     constructor(marca, modelo, ruedas, cv, peso, combustible){
